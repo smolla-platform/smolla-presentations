@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Smolla.Presentations.Host/Smolla.Presentations.Host.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Smolla.Presentations.Tests/Smolla.Presentations.Tests.csproj" />
+  </Folder>
+</Solution>
